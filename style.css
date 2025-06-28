@@ -1,0 +1,46 @@
+/*==========table==========*/
+table{
+    color: #fff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em Arial, Helvetica, sans-serif;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+/*==========Rows==========*/
+tr {
+    height: 16.02vh;
+    background-color: #757C88;
+}
+
+/*==========Cells==========*/
+td{
+    width:25vw;
+    border: 1px solid #00f0ff;
+}
+
+/*==========Input Box==========*/
+#inputBox{
+    background-color: #757C88;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    color: #fff;
+    border: 0px;
+}
+
+/*==========Digit Button==========*/
+.digitButton{
+ background-color: #59788e;
+}
+
+/*=========Operator Button==========*/
+.operatorButton{
+ background-color: #0492C2;
+}
+
+/*==========AC Button==========*/
+.ACButton{
+ background-color: #2C3e4C;
+}
