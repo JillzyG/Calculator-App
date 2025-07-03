@@ -37,10 +37,19 @@ td{
 
 /*=========Operator Button==========*/
 .operatorButton{
- background-color: #0492C2;
+ background-color: #2C3e4C;
 }
 
 /*==========AC Button==========*/
 .ACButton{
- background-color: #2C3e4C;
+ background-color: #0492C2;
+}
+
+/*==========Function buttons==========*/
+.funcButton {
+    background-color: #0492C2;
+    text-align: center;
+    cursor: pointer;
+    font-size: 1.5em;
+    padding: 10px;
 }
